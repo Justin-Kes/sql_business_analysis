@@ -1,5 +1,5 @@
 /*****
-In relation to the products:
+In relation to the products sold:
 *****/
 
 -- What categories of tech products does Magist have?
